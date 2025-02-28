@@ -1,0 +1,17 @@
+<product>
+    <id>101</id>
+    <name>Wireless Mouse</name>
+    <category>Electronics</category>
+    <price>25.99</price>
+    <availability>In Stock</availability>
+    <specifications>
+        <specification>
+            <key>Connectivity</key>
+            <value>Bluetooth</value>
+        </specification>
+        <specification>
+            <key>Battery Life</key>
+            <value>12 months</value>
+        </specification>
+    </specifications>
+</product>

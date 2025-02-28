@@ -1,0 +1,17 @@
+{
+    "id": 101,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.99,
+    "availability": "In Stock",
+    "specifications": [
+        {
+            "key": "Connectivity",
+            "value": "Bluetooth"
+        },
+        {
+            "key": "Battery Life",
+            "value": "12 months"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+<politician>
+    <id>PH2025-01</id>
+    <name>Juan Dela Cruz</name>
+    <party>National Unity Party</party>
+    <position>Senator</position>
+    <campaignPromise>Economic Reform</campaignPromise>
+    <agenda>
+        <policy>
+            <name>Education Reform</name>
+            <details>Increase funding for public schools</details>
+        </policy>
+        <policy>
+            <name>Healthcare</name>
+            <details>Expand access to affordable healthcare</details>
+        </policy>
+    </agenda>
+</politician>

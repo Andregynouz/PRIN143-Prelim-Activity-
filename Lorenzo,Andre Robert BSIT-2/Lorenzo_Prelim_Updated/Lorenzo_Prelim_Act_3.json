@@ -1,0 +1,18 @@
+{
+    "id": 2024101,
+    "name": "Maria Santos",
+    "dob": "2003-08-12",
+    "course": "Computer Science",
+    "yearLevel": 3,
+    "gpa": 3.75,
+    "subjects": [
+        {
+            "name": "Data Structures",
+            "instructor": "Prof. Alan Turing"
+        },
+        {
+            "name": "Web Development",
+            "instructor": "Prof. Ada Lovelace"
+        }
+    ]
+}

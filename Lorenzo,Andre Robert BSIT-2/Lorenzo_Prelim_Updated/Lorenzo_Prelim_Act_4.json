@@ -1,0 +1,11 @@
+{
+    "transactionId": "TX123456",
+    "accountNumber": 987654321,
+    "transactionType": "Deposit",
+    "amount": 500.00,
+    "date": "2025-02-28",
+    "details": {
+        "method": "Online Transfer",
+        "bank": "Metro Bank"
+    }
+}

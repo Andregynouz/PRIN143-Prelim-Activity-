@@ -1,0 +1,17 @@
+{
+    "id": "PH2025-01",
+    "name": "Juan Dela Cruz",
+    "party": "National Unity Party",
+    "position": "Senator",
+    "campaignPromise": "Economic Reform",
+    "agenda": [
+        {
+            "name": "Education Reform",
+            "details": "Increase funding for public schools"
+        },
+        {
+            "name": "Healthcare",
+            "details": "Expand access to affordable healthcare"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+<movie>
+    <id>56789</id>
+    <title>Inception</title>
+    <genre>Sci-Fi</genre>
+    <releaseYear>2010</releaseYear>
+    <rating>8.8</rating>
+    <cast>
+        <actor>
+            <name>Leonardo DiCaprio</name>
+            <role>Dom Cobb</role>
+        </actor>
+        <actor>
+            <name>Joseph Gordon-Levitt</name>
+            <role>Arthur</role>
+        </actor>
+    </cast>
+</movie>

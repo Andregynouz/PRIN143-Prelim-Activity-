@@ -1,0 +1,11 @@
+<transaction>
+    <transactionId>TX123456</transactionId>
+    <accountNumber>987654321</accountNumber>
+    <transactionType>Deposit</transactionType>
+    <amount>500.00</amount>
+    <date>2025-02-28</date>
+    <details>
+        <method>Online Transfer</method>
+        <bank>Metro Bank</bank>
+    </details>
+</transaction>
